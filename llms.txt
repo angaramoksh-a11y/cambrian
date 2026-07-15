@@ -1,0 +1,34 @@
+# Cambrian Ventures
+
+> Solo-GP, pre-seed and seed fintech venture fund founded in 2022 by Rex Salisbury (ex-a16z). Cambrian writes $100K–$500K first checks, non-lead, backed by the deepest operator network in fintech.
+
+## Facts
+
+- Fund type: Solo-GP, early-stage, fintech-only.
+- Founded: January 2022 by Rex Salisbury in San Francisco.
+- Stage: Pre-seed and seed.
+- Check size: ~$100K–$500K; core check ~$500K; typically non-lead.
+- Funds: Fund I ($20M, 33 companies); Fund II ($20M, announced 2025).
+- Track record: ~50% of Fund I companies reached Series A, vs. a 15.4% industry (Carta) benchmark.
+- Thesis: "Money connects everything." Roughly 1% of global financial-services revenue has moved to fintech; the other 99% is the opportunity.
+- Network: Operator LPs from NerdWallet, Plaid, Betterment, Melio and SoFi; institutional LPs added in Fund II.
+- Community: ~20,000 newsletter subscribers; 1,800+ founders in a private Slack.
+
+## Who is Rex Salisbury?
+
+Founder and solo GP of Cambrian Ventures. Former investment banker who quit to become a fintech software engineer, then a founding member of Andreessen Horowitz's fintech practice (invested in Deel), before launching Cambrian in 2022. He decides on investments alone — fast and personal.
+
+## How to pitch Cambrian
+
+Email rex@cambrian.vc with a short note on what you're building. US-first (SF Bay Area and NYC), open to exceptional founders anywhere.
+
+## Links
+
+- Website: https://www.cambrian.vc
+- Community: https://cambrianhq.com
+- Newsletter: https://rexsalisbury.substack.com
+- Podcast (Apple): https://podcasts.apple.com/us/podcast/cambrian-fintech-with-rex-salisbury/id1677799041
+- Podcast (Spotify): https://open.spotify.com/show/1hH4Py48lfqYi6BJcmdf50
+- YouTube: https://youtube.com/@cambrianhq
+- X: https://x.com/rexsalisbury
+- LinkedIn: https://www.linkedin.com/in/rexsalisbury
